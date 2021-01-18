@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text is 
+Your text will be in quates
 Use the left arrow to go back!
